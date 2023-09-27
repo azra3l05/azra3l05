@@ -82,7 +82,7 @@ I am based in India and work remotely.
 ### Random facts
 
 - My favourite emoji is 👍
-- 🐳 I develop in ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white) Docker containers
+- 🐳 I develop in ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white) most of my SQL Queries and Pipeline codes.
 - 🏠 I like self hosting everything, I even host my 2 own servers running Ubuntu
 - 〽️ I like having metrics, for everything metric-able and display them with *Grafana*
 
