@@ -1,6 +1,6 @@
 # Gopinath Sekar ![Visitors count](https://visitor-badge.laobi.icu/badge?page_id=qdm12.qdm12)
 
-👋 I'm Gopi, 32, a **Data Engineer** passionate about SQL, Data Pipeline and Analysis.
+👋 I'm Gopi, 35, a **Data Engineer** passionate about SQL, Data Pipeline and Analysis.
 
 ![Gopi's Github stats](https://github-readme-stats.vercel.app/api?username=azra3l05&show_icons=true&theme=dracula)
 
