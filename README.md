@@ -54,17 +54,6 @@ I love working with tools like **Snowflake, AWS, Airflow, Python, SQL, GitHub Ac
 
 ---
 
-### ⚠️ What I've Used in the Past (and would rather not again)
-
-> Tools and tech I've moved away from:
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Mac OS](https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=F0F0F0)
-
----
-
 ### 📬 Let’s Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gopinathsekar.gp@gmail.com)
