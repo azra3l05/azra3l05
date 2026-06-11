@@ -1,74 +1,68 @@
-# 👋 Hey there, I'm Gopinath Sekar!
+# 👋 Hi, I'm Gopinath Sekar
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=azra3l05)
 
-I'm a **Data Engineer** based in 🇮🇳 India, passionate about solving real-world problems using data, automation, and smart engineering. I specialize in building robust **data pipelines**, driving analytics, and creating secure, scalable **cloud-native** solutions.  
+**Data Engineer** based in 🇮🇳 India. I build robust **data pipelines**, automate everything I reasonably can, and run a small fleet of **self-hosted services** to keep my ops skills sharp. I care about clean engineering, observability, and secure, scalable **cloud-native** systems.
 
-I love working with tools like **Snowflake, AWS, Airflow, Python, SQL, GitHub Actions**, and occasionally stretch into **Angular** and **Node.js** to push full-stack prototypes live.
-
----
-
-### 🚀 What I'm Good At
-
-#### 🛠️ Data Engineering & Cloud
-- **Snowflake** (Automation, Procedures, SDKs, Secrets Manager, Performance Tuning)
-- **AWS** (S3, Lambda, SNS, Secrets Manager, IAM, CloudFormation)
-- **Apache Airflow** (ETL Orchestration, Dockerized DAGs)
-- **SQL** (Advanced Analytics, Fill Rate Checks, Data QA, Row Score Monitoring)
-- **Python** (Automation Scripts, Lambda Functions, Web Scraping)
-- **Node.js** (Snowflake SDKs, Express APIs, JWT Authentication)
-- **GitHub Actions** (CI/CD, Liquibase automation for Snowflake)
-- **Docker** (Dev environments, CI/CD Pipelines)
-- **ZFS / BTRFS** (File systems for self-hosted infra)
-
-#### 📊 Dashboarding & Front-End Integrations
-- **Tableau** (Trusted Ticket Auth, Filters, Parameter Automation)
-- **Angular** (Front-end hooks for Tableau, UI Enhancements)
-- **Winston & PM2 Logging** (Angular & Node log forwarding to Graylog)
+Day to day I live in **Snowflake, AWS, Airflow, Python, and SQL**, with **GitHub Actions** gluing the CI/CD together — and I'll happily drop into **Angular / Node.js** to ship a full-stack prototype.
 
 ---
 
-### 🔧 Tools & Platforms I Use Frequently
+### 🛠️ Data Engineering & Cloud
+- **Snowflake** — stored procedures, SDKs, performance tuning, secrets management, Liquibase-driven CI/CD
+- **AWS** — S3, Lambda, SNS, IAM, Secrets Manager, CloudFormation
+- **Apache Airflow** — ETL orchestration, Dockerized DAGs
+- **SQL** — advanced analytics, data-quality checks, fill-rate & row-score monitoring
+- **Python** — automation, Lambda functions, tooling, scraping
+- **GitHub Actions** — CI/CD pipelines, automated database migrations
+- **Docker** — reproducible dev environments & pipelines
 
+### 📊 Analytics & Front-End
+- **Tableau** — trusted-ticket auth, parameter & filter automation
+- **Angular + Node.js** — Tableau embedding, Express APIs, JWT auth
+- **Grafana / Graylog** — centralized metrics & logging (Winston + PM2 forwarding)
+
+---
+
+### 🏠 Self-Hosted Infrastructure (Homelab)
+I run a containerized, single-host application platform — **~40 services**, fully reverse-proxied behind SSO, monitored, and largely self-updating. It's where I prototype, break things safely, and learn the ops side of engineering:
+
+- **Orchestration** — Docker + Compose, Traefik reverse proxy, Authelia SSO, scripted weekly auto-updates with health verification
+- **Built from scratch** — a custom **observability dashboard** (SvelteKit + FastAPI): live service health, cron success/failure, a unified at-a-glance view, all behind SSO with SSE-based live updates
+- **Storage** — ZFS / BTRFS with snapshots and tiered storage
+- **Apps** — self-hosted password vault, photo library, notes, monitoring & uptime, RSS/automation
+- **Ops automation** — chat-ops bots for health alerts & management, scripted backups, and health-check pipelines
+
+---
+
+### 🧰 Tools I Reach For
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apache-airflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell-Bash-blue?logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell-Bash-blue?logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Alpine](https://img.shields.io/badge/Alpine-0D597F?logo=alpine-linux&logoColor=white)
 
 ---
 
-### ☁️ Dev Stuff I’ve Also Dabbled In
-
-- **AWS CloudFormation**, **Golden AMIs**
-- **Python + Selenium** for automation
-- **Discord bots** for server management
-- **Media server management** (Emby, IPTV, 4K transcoding rules 🤓)
-- **Graylog** for custom logging pipelines
-- **Gitea / GitLab / Bitbucket / Jira / Confluence**
+### ⚡ A Few Things About Me
+- 🏠 I self-host almost everything — if it can run in a container, it probably is.
+- 📈 Obsessed with metrics — if it can be graphed, it's going to Grafana.
+- 🐧 Daily-drive Linux (Ubuntu / Alpine); love tinkering with filesystems like ZFS & BTRFS.
+- 🔐 Big on secure pipelines — encryption, secrets management, and IAM done right.
+- 🎮 Occasional detour into gaming & retro consoles.
 
 ---
 
-### 📬 Let’s Connect
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gopinathsekar.gp@gmail.com)
+### 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopinath-sekar)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/u/azrael0528)
-
----
-
-### ⚡ Fun Facts
-
-- 🏠 I self-host almost everything — from dashboards to media servers.
-- 🧠 I’m obsessed with metrics. If it can be graphed, it’s going to Grafana!
-- 🐧 I daily-drive Linux (Ubuntu/Alpine) and love playing with filesystems like ZFS & BTRFS.
-- 🔐 Passionate about secure pipelines — encryption, secrets, and IAM are 🔑.
-- 🎮 I occasionally dive into gaming and retro consoles (self-hosted too 😉).
 
 ---
 
