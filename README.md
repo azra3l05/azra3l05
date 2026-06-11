@@ -4,7 +4,7 @@
 
 Building robust **data pipelines**, automating everything I reasonably can, and running a fleet of **self-hosted services** to keep my ops skills sharp. I care about clean engineering, observability, and secure, scalable **cloud-native** systems.
 
-🌱 **Currently exploring:** agentic AI workflows & AI-assisted engineering · learning **dbt** for Snowflake transformations
+🌱 **Currently exploring:** agentic AI workflows & AI-assisted engineering
 
 <table>
 <tr>
@@ -12,6 +12,7 @@ Building robust **data pipelines**, automating everything I reasonably can, and 
 
 #### 🛠️ Data Engineering & Cloud
 - **Snowflake** — procedures, SDKs, perf tuning, Liquibase CI/CD
+- **dbt** — data modeling & testing on Snowflake
 - **AWS** — S3, Lambda, SNS, IAM, Secrets Manager, CloudFormation
 - **Apache Airflow** — ETL orchestration, Dockerized DAGs
 - **SQL · Python** — analytics, data-quality checks, automation
